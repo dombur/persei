@@ -1,0 +1,10 @@
+.fadein {
+	opacity: 0;
+	transform: translate3d(0px, 25px, 0px);
+	transition: opacity 650ms ease-in, transform 550ms ease-in-out;
+}
+
+.fadein.appear {
+	opacity: 1;
+	transform: translate3d(0px, 0px, 0px);
+}
