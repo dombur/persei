@@ -14,13 +14,13 @@ module.exports = {
       'body': ['Poppins']
     },
     fontSize: {
-      'xs': '.618rem',
+      'xs': '.667rem',
       'base': '1rem',
-      'lg': '1.618rem',
-      'xl': '2.618rem',
-      '2xl': '4.236rem',
-      '3xl': '6.845rem',
-      '4xl': '11.089rem',
+      'lg': '1.5rem',
+      'xl': '2.25rem',
+      '2xl': '3.375rem',
+      '3xl': '5.063rem',
+      '4xl': '7.594rem'
     },
     extend: {}
   },
